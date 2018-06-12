@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/ilirhushi/Code/npm-packages/react-native-phone-input/examples/BasicExample/node_modules/react-native/React/Base/RCTUtils.h

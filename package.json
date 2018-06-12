@@ -1,14 +1,14 @@
 {
-  "name": "react-native-phone-input",
-  "version": "0.2.0",
-  "description": "Phone input box for React Native",
+  "name": "react-native-phone-input-type",
+  "version": "0.2.1",
+  "description": "Phone input type box for React Native",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:thegamenicorus/react-native-phone-input.git"
+    "url": "git@github.com:ilirhushi/react-native-phone-input.git"
   },
   "keywords": [
     "react-native",
@@ -31,10 +31,10 @@
   "peerDependencies": {
     "react-native": ">= 0.25"
   },
-  "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
+  "author": "Ilir Hushi (https://github.com/ilirhushi)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thegamenicorus/react-native-phone-input/issues"
+    "url": "https://github.com/ilirhushi/react-native-phone-input/issues"
   },
-  "homepage": "https://github.com/thegamenicorus/react-native-phone-input"
+  "homepage": "https://github.com/ilirhushi/react-native-phone-input"
 }
