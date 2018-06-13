@@ -1,6 +1,6 @@
 {
   "name": "react-native-phone-input-type",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Phone input type box for React Native",
   "main": "lib/index.js",
   "scripts": {
